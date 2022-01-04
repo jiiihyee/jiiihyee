@@ -19,7 +19,7 @@
 
 - 📫 How to reach me: ...
 
-zizon_jihye <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> 
+oranji_hye <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> 
 
 
   </div>
