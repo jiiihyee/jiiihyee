@@ -2,7 +2,8 @@
 Hi Hello! 
 I'm Jihye, Front-end developer from Korea ! 🙌
   <div align=center>
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+![HitCount](http://hits.dwyl.com/dev-yakuza/react-native-image-modal.svg)
+	
 	
 #
 	
