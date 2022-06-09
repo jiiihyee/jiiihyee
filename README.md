@@ -27,6 +27,7 @@ I'm Jihye, Front-end and Android developer from Korea ! 🙌
 - 📫 How to reach me: ...
 
 oranji_hye <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> 
+zizon_couple <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> 
 
 
   </div>
