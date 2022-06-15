@@ -22,8 +22,9 @@ I'm Jihye, Front-end and Android developer from Korea ! 🙌
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>	
 	
 #
-	
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiiihyee)](https://github.com/anuraghazra/github-readme-stats)
 
+#
 - 📫 How to reach me: ...
 
 oranji_hye <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> 
