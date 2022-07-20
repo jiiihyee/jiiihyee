@@ -1,6 +1,7 @@
 ### Hi there 👋
 Hi Hello! 
 I'm Jihye, Front-end and Android developer from Korea ! 🙌
+Nowadays My main skill is Vue.js 
   <div align=center>
 	
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
