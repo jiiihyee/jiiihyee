@@ -23,7 +23,7 @@ Nowadays My main skill is Vue.js
 
 	
 #
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiiihyee)](https://github.com/anuraghazra/github-readme-stats)
+
 
 #
 - 📫 How to reach me: ...
