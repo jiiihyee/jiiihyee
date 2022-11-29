@@ -1,8 +1,8 @@
 ### Hi there 👋
 Hi Hello! 
 I'm Jihye, Front-end and Android developer from Korea ! 🙌
-<div>Nowadays My main skill is Vue.js </div>
-<div>and learning React Native now</div>
+<div>Nowadays My main skill is Vue.js and learning React Native now </div>
+
 
   <div align=center>
 	
